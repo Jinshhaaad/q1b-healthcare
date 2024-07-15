@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/q1b-healthcare/static/css/main.7521ed2e.css",
+    "main.js": "/q1b-healthcare/static/js/main.a19c1839.js",
+    "static/js/453.85e2ec85.chunk.js": "/q1b-healthcare/static/js/453.85e2ec85.chunk.js",
+    "static/media/welcome.png": "/q1b-healthcare/static/media/welcome.6c45ff8caaf7651c1353.png",
+    "static/media/Blog111.png": "/q1b-healthcare/static/media/Blog111.43ece9b39cc9a5ee84ad.png",
+    "static/media/doctor-offering-medical-teleconsultation 1.png": "/q1b-healthcare/static/media/doctor-offering-medical-teleconsultation 1.0d3ab47ca68d18f382cc.png",
+    "static/media/aboutimg3.png": "/q1b-healthcare/static/media/aboutimg3.07cb0e4d75f7f0ce81dd.png",
+    "static/media/Bookingimg.png": "/q1b-healthcare/static/media/Bookingimg.15f96d8f25b0317f48a4.png",
+    "static/media/aboutimg2.png": "/q1b-healthcare/static/media/aboutimg2.e0f1519c30bbc3df9bdc.png",
+    "static/media/Booking.png": "/q1b-healthcare/static/media/Booking.bf0073262c14014ecb3b.png",
+    "static/media/medium-shot-women-holding-hands-indoors 1.png": "/q1b-healthcare/static/media/medium-shot-women-holding-hands-indoors 1.719097c74e5c9437eced.png",
+    "static/media/doctor5.jpeg": "/q1b-healthcare/static/media/doctor5.6c072fbe6d95a09bff37.jpeg",
+    "static/media/doctor3.jpeg": "/q1b-healthcare/static/media/doctor3.c1e8b2f2e8fcbf6862fd.jpeg",
+    "static/media/doctor2.jpeg": "/q1b-healthcare/static/media/doctor2.97b71318e6ed6047fc02.jpeg",
+    "static/media/doctor4.jpeg": "/q1b-healthcare/static/media/doctor4.b07c8e80dd43e44630f9.jpeg",
+    "static/media/doctor1.jpeg": "/q1b-healthcare/static/media/doctor1.20df06667915c027cabf.jpeg",
+    "static/media/aboutphoto.png": "/q1b-healthcare/static/media/aboutphoto.ce447655b53c5befaeda.png",
+    "index.html": "/q1b-healthcare/index.html",
+    "main.7521ed2e.css.map": "/q1b-healthcare/static/css/main.7521ed2e.css.map",
+    "main.a19c1839.js.map": "/q1b-healthcare/static/js/main.a19c1839.js.map",
+    "453.85e2ec85.chunk.js.map": "/q1b-healthcare/static/js/453.85e2ec85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7521ed2e.css",
+    "static/js/main.a19c1839.js"
+  ]
+}
