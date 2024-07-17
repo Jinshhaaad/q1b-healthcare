@@ -55,8 +55,8 @@ function Header() {
                 {index === 1 && <FeaturedPlayListIcon />}
                 {index === 2 && <MiscellaneousServicesIcon />}
                 {index === 3 && <ContactsIcon />}
-                {index === 4 && <FeaturedPlayListIcon />}
-                {index === 5 && <ContactsIcon />}
+
+                
                 {/* Add more icons as needed */}
               </ListItemIcon>
               <ListItemText primary={item.display} />
